@@ -1,4 +1,4 @@
-package ru.alexanna.lib.portreceiver;
+package ru.alexanna.portreceiver;
 
 import jssc.SerialPortException;
 
